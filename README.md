@@ -260,19 +260,6 @@ The system tracks:
 
 ---
 
-## 📝 Project Details
-
-| Detail | Value |
-|--------|-------|
-| **Academic Institution** | School of Computer Science & Technologies |
-| **Field of Study** | Computer Science |
-| **Author** | Sania Sohail |
-| **Student Index** | 47482 |
-| **Supervisor** | dr inż. Dominika Lisiak-Felicka |
-| **Location** | Warsaw |
-| **Year** | 2026 |
-| **Project Type** | Academic Research Project |
-
 ---
 
 ## 📚 Documentation
@@ -303,10 +290,6 @@ This is an academic project. If you'd like to contribute improvements:
 - **Project Issues:** [GitHub Issues](https://github.com/sania-tech/Security_ETL_Project/issues)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
