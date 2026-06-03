@@ -1,5 +1,9 @@
 # Security Log Integration System with Power BI Reports
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
+
 An automated ETL and dashboard system for collecting, processing, analyzing, and visualizing security log data.
 
 ## Project Overview
